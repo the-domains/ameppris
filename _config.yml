@@ -1,0 +1,14 @@
+layout_spectrum: 0.4161889608949423
+typography_spectrum: 0.9109240903053433
+color:
+  brandStrength: 0.9874876337125897
+  lightness: 0.3803914685267955
+  saturation: 0.6376125374808908
+  rhythmicContrast: 0.10044618300162256
+  brandColors:
+    - '#E5E6E1'
+    - '#A59178'
+    - '#141213'
+    - '#897459'
+    - '#6C231B'
+name: AMEPPRIS
