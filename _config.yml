@@ -1,4 +1,3 @@
-layout_spectrum: 0.4161889608949423
 typography_spectrum: 0.9109240903053433
 color:
   brandStrength: 0.9874876337125897
@@ -11,4 +10,7 @@ color:
     - '#141213'
     - '#897459'
     - '#6C231B'
+layout_spectrum: 0.4161889608949423
+logo: null
 name: AMEPPRIS
+title: Asesores Patrimoniales
