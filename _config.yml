@@ -11,6 +11,9 @@ color:
     - '#897459'
     - '#6C231B'
 layout_spectrum: 0.4161889608949423
+author:
+  name: Dulce Alfaro
+  email: redes.sociales@ameppris.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de16e9c-9bf7-42e4-917f-b80fabcc456f.png
 name: AMEPPRIS
