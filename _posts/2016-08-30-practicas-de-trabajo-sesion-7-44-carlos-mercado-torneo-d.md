@@ -1,14 +1,7 @@
 ---
-author:
-  - name: AMEPPRIS
-    url: 'https://www.youtube.com/channel/UCvetfh2vSNXIi42gI5Pzgag'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-30T18:19:10.338Z'
+sourcePath: _posts/2016-08-30-practicas-de-trabajo-sesion-7-44-carlos-mercado-torneo-d.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=D9GWNrQxzl4'
 keywords:
   - practicas
   - trabajo
@@ -20,8 +13,16 @@ keywords:
   - duration
   - gabriel
   - carlos
-description: (PRESENTACIÓN)
-inLanguage: en
+related: []
+author:
+  - name: AMEPPRIS
+    url: 'https://www.youtube.com/channel/UCvetfh2vSNXIi42gI5Pzgag'
+    avatar: {}
+via: {}
+dateModified: '2016-08-30T18:19:09.991Z'
+title: >-
+  Practicas de Trabajo Sesión 7 (4/4) Carlos Mercado "Torneo de Role Play y
+  Maratón"
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=D9GWNrQxzl4&feature=applinks'
     type: ios
@@ -59,20 +60,19 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=D9GWNrQxzl4'
-title: >-
-  Practicas de Trabajo Sesión 7 (4/4) Carlos Mercado "Torneo de Role Play y
-  Maratón"
-datePublished: '2016-08-30T18:17:38.187Z'
-dateModified: '2016-08-30T18:17:29.540Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: (PRESENTACIÓN)
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-30-practicas-de-trabajo-sesion-7-44-carlos-mercado-torneo-d.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FD9GWNrQxzl4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DD9GWNrQxzl4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FD9GWNrQxzl4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
