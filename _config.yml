@@ -1,3 +1,4 @@
+layout_spectrum: 0.4161889608949423
 typography_spectrum: 0.9109240903053433
 color:
   brandStrength: 0.9874876337125897
@@ -5,18 +6,9 @@ color:
   saturation: 0.6376125374808908
   rhythmicContrast: 0.10044618300162256
   brandColors:
-    - '#E5E6E1'
-    - '#A59178'
-    - '#141213'
-    - '#897459'
-    - '#6C231B'
-layout_spectrum: 0.4161889608949423
-author:
-  name: Dulce Alfaro
-  email: redes.sociales@ameppris.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de16e9c-9bf7-42e4-917f-b80fabcc456f.png
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: AMEPPRIS
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/705f3e80-d5f5-4ef0-b101-9bd845138842.png
-title: Asesores Patrimoniales
